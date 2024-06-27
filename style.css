@@ -1,0 +1,66 @@
+header { position: relative; background-color: rgb(29, 29, 29); padding: 10px; border-style: solid; border-color: rgb(75, 72, 71);} 
+#logo img{width: 80px; height: 80px ; }
+nav { position: absolute; left: 45%; bottom: 35%}
+nav a{ text-decoration: none; color: rgb(0, 0, 0); margin-left: 10px; color: rgb(255, 255, 255); background-color: rgb(66, 66, 66); padding: 10px; border-radius: 10px;}
+nav i{margin-left: 30px ;}
+.zona1 { text-align: center; background-color: rgb(56, 56, 56); padding-top: 20px; }
+#textoZ1 { width: 500px ; height: 120px; margin: 0 auto; color: white; margin-bottom:10px ;}
+#textoZ2 {display: flex; flex-direction: row; margin: 0 auto;  width: 1000px; height: 150px; gap: 30px; text-align: center;}
+#textoZ2 article {background-color: rgb(56, 56, 56) ; width: 400px; height: 490px; padding: 5px;}
+#textoZ2 article a{ text-decoration: none; color: coral; background-color: black; padding: 10px; border-radius: 10px;}
+#textoZ2 article h2 { color: white;}
+.zona2 {text-align: center;}
+.zona2 img{width: 300px; height:320px ;}
+.zona3 {text-align: center;  width: 1000px; height: 700px; margin: 0 auto; margin-top: 400px;}
+#productos { display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; width: 1000px; height: 600px; margin: 0 auto;  background-color: rgb(255, 255, 255);}
+#productos article { width:300px; height: 250px; padding: 5px; background-color: rgb(56, 56, 56);}
+#productos article img {padding: 5px; background-color: rgb(21, 19, 19); width: 100px; height: 100px;}
+#productos article a{text-decoration: none; color: coral; background-color: black; padding: 10px; border-radius: 10px;}
+#downad{ height: 200px; margin-top: 100px;}
+#ad1 {width: 600px; height: 200px;}
+#ad2 {width: 600px; height: 200px;}
+#leftad{ width: 200px; height: 400px; background-color: aqua; position: absolute; bottom: -1500px;}
+#ad3 {width: 200px; height: 500px;}
+#registroad {width: 700px; height: 200px; margin: 0 auto;}
+#ad4 {width: 700px; height: 200px;  padding: 5px; background-color: rgb(56, 56, 56); margin: 10px; }
+.zona4 { width: 630px;height: 400px; margin: 0 auto; background-color: rgb(67, 67, 67); margin-top: 200px; padding: 20px;}
+#staf { display: flex; flex-direction: row; gap: 30px; text-align: center; }
+#staf img{width: 300px;height: 200px;}
+#staf h3 { color: coral; margin: 0; }
+#staf p em { color: grey; margin: 0;}
+
+.zona5 { width: 1000px;height: 450px; margin: 0 auto; background-color: rgb(67, 67, 67); margin-top: 200px; padding: 20px;}
+#noticia { display: flex; flex-direction: row; gap: 30px; text-align: center; }
+#noticia img{width: 300px;height: 200px;}
+#noticia h3 { color: coral; margin: 0; }
+#noticia a {text-decoration: none; color: coral;}
+#noticia a p {color: black;}
+
+
+
+
+.login { width: 400px; height: 300px; text-align: center; margin: 0 auto; background-color: rgb(56, 56, 56); color: white;}
+#formulario button{ width:200px ; height: 40px; background-color: black; padding: 10px; border-radius: 10px; color: coral; margin: 10px;}
+#text {width:300px ; height: 40px;margin: 10px; }
+
+.singup {width: 400px; height: 520px; text-align: center; margin: 0 auto; background-color:rgb(56, 56, 56);color: white;}
+#escritura {width:300px ; height: 40px;margin: 10px;}
+#botones {width:100px ; height: 40px; background-color: black; padding: 10px; border-radius: 10px; color: coral; margin: 8px;}
+
+
+.contact {width: 400px; height: 500px; text-align: center; margin: 0 auto; background-color:rgb(56, 56, 56);color: white;}
+#contacto input{width: 300px; height: 40px; margin: 5px;}
+#contacto button{width:200px ; height: 40px; background-color: black; padding: 10px; border-radius: 10px; color: coral; margin: 10px;}
+#contacto textarea {width: 300px; height: 100px;}
+
+
+
+footer {text-align: center; background-color: black; color: white; margin-top: 5%;}
+
+
+#Timg {width: 100px; height: 100px;}
+.masproductos{background-color: rgb(56, 56, 56); width: 65%; margin: 0 auto; color: rgb(130, 130, 130);}
+.masproductos article{margin: 5px;}
+ #boton {text-decoration: none; color: coral; background-color: black; padding: 10px; border-radius: 10px;}
+#masproductoad { margin: 0 auto; background-color: aqua; width: 500px; height: 200px; margin-top: 20px;}
+#ad8 {width: 500px; height: 200px;}
